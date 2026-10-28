@@ -4,6 +4,10 @@ An open-source fantasy game for the browser, built with Three.js, Vite and Cloud
 
 [Play Brackenwake](https://brackenwake.com/play) · [Website](https://brackenwake.com/) · [Lore and lands](https://brackenwake.com/lore/) · [Asset playground](https://assets.brackenwake.com/)
 
+**Deploy your own copy:** [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsalthapaliya2030-cyber%2Fbrackenwake)
+
+*The button imports this repository into your own Vercel account. GitHub/Vercel sign-in or authorization may be required.*
+
 ## Lore and lands
 
 The [world atlas](https://brackenwake.com/lore/) collects the nine realms and 95 named places, with zone descriptions, landmarks, encounters and character stories. Start with [the last dragon](https://brackenwake.com/lore/story/) or [the Greenwold](https://brackenwake.com/lore/greenwold/).
