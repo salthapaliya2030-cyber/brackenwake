@@ -205,7 +205,7 @@ export function createScene(container) {
   const w = container.clientWidth || 800, h = container.clientHeight || 600;
 
   const renderer = new THREE.WebGLRenderer({ antialias: true });
-  renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
+  renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 1.25));
   renderer.setSize(w, h);
   renderer.shadowMap.enabled = true;
   // PCF, not PCFSoft: three r185 deprecated PCFSoftShadowMap and silently
